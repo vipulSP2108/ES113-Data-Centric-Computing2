@@ -1,4 +1,4 @@
-# ES113 Data Centric Computing (Introduction to ML)
+# ES113b Data Centric Computing (Introduction to ML)
 
 This document contains important information about the course.
 
