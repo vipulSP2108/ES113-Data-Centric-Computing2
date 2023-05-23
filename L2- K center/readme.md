@@ -15,6 +15,7 @@ The "*" is a dot product.
 Now add in a single point as an outlier. Choose a random index between 0 to 100 and modify the target Y(1) for that point.
 
 outlierindex= int(random.random()*50) 
+
 Y(outlierindex)= w X()+ 10 random.randn()
 
 Notice that it is not known to us which point is an outlier. Now do Linear Regression with LOOCV and find out which point has the worst error. Return the index of that point as the potential outlier. Compare it with the above outlierindex to see whether you have identified it correctly.
