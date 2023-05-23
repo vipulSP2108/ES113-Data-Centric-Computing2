@@ -1,4 +1,4 @@
-# Problem 1:
+# Problem
 
 Load the Diabetes dataset using (x, y) =
 sklearn.datasets. load_diabetes (return _X_y= True). 
