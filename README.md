@@ -23,6 +23,6 @@ This document contains important information about the course.
 
 `Solutions`
 
-This repository also includes solutions to these assignments in the file.
+This repository also includes solutions to these assignments in the file named after the name of the assignment. 
 
 ### Have fun coding!
