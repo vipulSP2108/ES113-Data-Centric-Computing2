@@ -1,4 +1,4 @@
-# Problem2:
+# Problem
 
 Use the Wine dataset using sklearn.datasets.load_wine(). Use the train_test_split
 to divide it into train and test. Fit a GaussianNBclassifier. Now visualize the 
