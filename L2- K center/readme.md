@@ -1,4 +1,4 @@
-# Problem
+# K-center
 
 In this problem, we will see how to use Leave-One-Out-Cross-validation (LOOCV) as a way to detect outliers in the data in a simple setting.
 
